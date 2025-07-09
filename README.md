@@ -1,4 +1,4 @@
-# 🧠 Learning Loogbok – My Dev Journey
+# 🧠 Learning Logbook – My Dev Journey
 
 Welcome to my personal knowledge log! This repository is where I collect short notes, reflections, formatting tricks, 
 and practical things I’ve learned along the way as I study programming, Markdown, GitHub, and more.
