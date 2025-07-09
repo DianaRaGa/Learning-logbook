@@ -43,3 +43,13 @@ To make text **bold**, wrap it in double asterisks (`**`) — **like so**
 
 ## Three Asterisks
 To make text ***bold and italic***, use triple asterisks (`***`) — ***like this!***
+
+# Manual Table of Contents in Markdown (but clickable)
+You can make a basic TOC like this:
+## 📚 Table of Contents
+- [Introduction]("#" Title of the section)
+- [Exercise 1]("#" exercise-1)
+- [Exercise 2]("#" exercise-2)
+- [Reflection]("#" reflection)
+🔗 Clicking on any of those links will jump to the matching section in the .md file — on GitHub, Phoenix Code, 
+- Jupyter notebooks, etc.
