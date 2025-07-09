@@ -21,3 +21,17 @@ All of this steps make it seam like a big deal. Will be carful from now on ✍�
 
 ---
 
+# How to Commit Only One File in GitHub Desktop
+1. Open GitHub Desktop
+2. In the left sidebar, under the “Changes” tab, you’ll see a list of all files that have been modified.
+3. Uncheck the ones you don’t want to include in the current commit:
+   - Click the checkboxes to deselect any files you don’t want to commit yet.
+   - Leave only the file(s) you want to commit checked ✅
+4. At the bottom, write your commit message.
+5. Click “Commit to main” (or whatever branch you're on).
+6. When you’re ready, click “Push origin” to upload your change to GitHub.com.
+
+I had to Google that because I didn't know...
+
+---
+
