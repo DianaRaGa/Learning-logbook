@@ -35,3 +35,33 @@ I had to Google that because I didn't know...
 
 ---
 
+**Date:** 17 July 2025
+
+# Add a GitHub repository from the website to the GitHub Desktop app
+
+## ✅ Option 1: If you already own the repository (your repo)
+
+1. Open GitHub Desktop.
+2. Go to File > Clone Repository…
+3. In the “GitHub.com” tab, you’ll see your repositories listed.
+4. Select the repo you want to clone to your local machine.
+5. Choose the local path (where the folder will be saved).
+6. Click Clone.
+
+## ✅ Option 2: If the repo is not yours but public (e.g., from someone else)
+### A. First, fork or copy the URL:
+
+1. On GitHub.com, go to the repository page.
+2. Click the green “Code” button.
+3. Copy the HTTPS URL (e.g., https://github.com/username/repo-name.git).
+
+### B. Then, in GitHub Desktop:
+1. Open GitHub Desktop.
+2. Go to File > Clone Repository…
+3. Select the “URL” tab.
+4. Paste the URL you copied.
+5. Choose where to save it on your computer.
+6. Click Clone.
+
+---
+
