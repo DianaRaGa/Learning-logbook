@@ -65,3 +65,69 @@ I had to Google that because I didn't know...
 
 ---
 
+**Date:** 20 July 2025
+
+I keep getting a folder for the cache when running code in PyCharm using other txt files so this is the way of ignoring the changes 
+each time in the GitHub desktop app. 
+
+# 🧾 How to Create a .gitignore File in PyCharm (Step by Step)
+
+## ✅ Step 1: Open Your Project in PyCharm
+Make sure you're inside the GitHub project or folder where you want Git to ignore files (like __pycache__/).
+
+## 📝 Step 2: Create the .gitignore File
+Option A: If it doesn’t exist yet
+1. In the Project view (left panel), right-click on your root project folder.
+2. Click New > File.
+3. Name the file:
+
+``` .gitignore ```
+
+(Make sure it starts with a dot and has no extension)
+
+4. Click OK or press Enter.
+
+## ✏️ Step 3: Add ignore rules
+1. Once the file is created, PyCharm will open it. Now add lines like:
+```
+bash
+
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (if you have one)
+venv/
+env/
+
+# Ignore IDE/project settings (optional)
+.idea/
+.vscode/
+You can write one rule per line.
+```
+
+## ✅ Step 4: Save the File
+Just press Ctrl + S (or Cmd + S on Mac), or PyCharm will auto-save it after a few seconds.
+
+## 🧹 Step 5: (Optional) Stop Tracking Existing Files
+If you had already committed __pycache__/, Git is still tracking it. You can stop that with:
+
+1. Open PyCharm's terminal at the bottom (Alt + F12 or click the Terminal tab).
+2. Run this command:
+```
+bash
+
+git rm -r --cached __pycache__/
+```
+Then commit the change:
+```
+bash
+
+git commit -m "Remove __pycache__ and add .gitignore"
+```
+
+---
+
+**Date:** 
