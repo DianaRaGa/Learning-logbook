@@ -41,3 +41,59 @@ One book, one idea, and one little visualization at a time.
 Let's see what interesting things we can find. ✨
 
 
+
+# ʕっ•ᴥ•ʔっ♥ Reading & Learning Reflection
+
+> A little space to capture what I learned, what caught my attention, and what my brain decided to do with it.
+
+## ʕ✿•ᴥ•ʔ Session
+
+- **Date:**
+- **Chapter / Section:**
+- **What did I do today?** (Read, revisited a concept, experimented, etc.)
+
+## ʕ•ᴥ•ʔﾉ" My thoughts
+
+### What caught my attention?
+
+What idea, example, or concept stood out to me today?
+
+### What did I understand?
+
+How would I explain this concept in my own words?
+
+### What made me think?
+
+Did something challenge my assumptions, remind me of something, or make me see data differently?
+
+### What questions do I still have?
+
+Anything confusing, interesting, or worth exploring further?
+
+## ʕ༼◕ ౪ ◕✿༽ʔ Connecting the dots
+
+Where could I see this concept being useful?
+
+- At work?
+- In a project?
+- In something I find interesting outside work?
+- In a visualization I've seen before?
+
+## ʕっ•ᴥ•ʔっ💡 An idea worth exploring
+
+Is there a little data visualization project hiding in today's thoughts?
+
+- **The idea:**
+- **What story could I tell?**
+- **What data might I need?**
+- **Who might find this interesting?**
+
+## ʕ◉ᴥ◉ʔ One thing I'll take with me
+
+If I had to remember just one thing from today's session, what would it be?
+
+---
+
+*Messy thoughts are welcome. Not every reading session needs to produce a masterpiece.*
+
+
